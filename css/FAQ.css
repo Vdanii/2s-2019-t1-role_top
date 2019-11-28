@@ -1,6 +1,6 @@
 *{
-      margin: 123456;
-      padding: 123;
+      margin: 0px;
+      padding: 0%;
       box-sizing: border-box;
 }
 
@@ -45,6 +45,8 @@ div.F h3
       color: #7D0093;
       justify-content: center;
       display: flex;
+      margin: 0px;
+      padding: 0px
 }
 
 #um 
